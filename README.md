@@ -1,5 +1,9 @@
 # Judy Wu personal website
 
-Personal portfolio for https://jwu-1211.github.io/.
+https://jwu-1211.github.io/
 
-Publish these files at the root of the jwu-1211/jwu-1211.github.io repository. In Settings > Pages, select Deploy from a branch, main, / (root).
+Five-page static portfolio: About, CV, Projects, Art and Contact. Visual design inspired by al-folio (https://github.com/alshedivat/al-folio); this is a lightweight static adaptation, not the Jekyll theme installation.
+
+Edit the HTML pages to update content. Shared styling and interactions are in style.css and script.js. Art is ready for supplied artwork; no sample artwork is presented as Judy’s work.
+
+GitHub Pages publishes main, repository root.
